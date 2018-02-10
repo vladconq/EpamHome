@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     static int x1, y1, x2, y2;
-    // jhhjh
+    // vr
     public static void initial() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите координаты первой точки (x1,y1): ");
