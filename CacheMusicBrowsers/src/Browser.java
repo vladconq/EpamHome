@@ -10,11 +10,8 @@ public class Browser {
     static int countMP3Files = 0;
     static List<String> listWithMp3Files = new LinkedList();
 
-    // Файлы, меньшие 120 000 байт -
-    // а) Не несут значительной информации
-    // б) Охватывают группу звуковых уведомлений
+
     static final int LIMIT_SIZE_OF_BYTES = 120000;
-    // Длина тэга ID3
     static final int SIZE_OF_TAG_ID3 = 3;
 
     public static void findFile() {
