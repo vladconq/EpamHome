@@ -9,8 +9,6 @@ public class Browser {
     static int countAllFiles = 0;
     static int countMP3Files = 0;
     static List<String> listWithMp3Files = new LinkedList();
-
-
     static final int LIMIT_SIZE_OF_BYTES = 120000;
     static final int SIZE_OF_TAG_ID3 = 3;
 
