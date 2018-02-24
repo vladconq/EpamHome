@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="MpegAudioSPI1.9">
+    <CLASSES>
+      <root url="file://D:/Java/MpegAudioSPI1.9.5" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Java/MpegAudioSPI1.9.5/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/Java/MpegAudioSPI1.9.5/src" />
+      <root url="file://D:/Java/MpegAudioSPI1.9.5/srctest" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Java/MpegAudioSPI1.9.5" recursive="false" />
+  </library>
+</component>
