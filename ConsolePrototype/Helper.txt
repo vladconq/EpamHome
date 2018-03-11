@@ -1,0 +1,10 @@
+cd          Changes the current directory forward.
+cd..        Changes the current directory backward.
+delete      Deletes one or more files.
+dir         Displays a list of files and subdirectories in a directory.
+exit        Quits the CMD.EXE program (command interpreter).
+help        Provides Help information for Windows commands.
+mkdir       Creates a directory.
+rename      Renames a file or files.
+unzip       Unzip a file.
+zip         Zip a file.
